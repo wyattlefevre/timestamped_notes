@@ -1,2 +1,4 @@
 Usage:
-`python3 interview_notes.py <filename.txt>`
+
+`python3 timestamped_notes.py <filename.txt>`
+
